@@ -16,7 +16,7 @@
     "settings": {
       "vnext": [
         {
-          "address": "128.199.182.183",
+          "address": "x.x.x.x",
           "port": 20000,
           "users": [
             {
@@ -34,7 +34,7 @@
       "protocol": "dokodemo-door",
       "port": 20001,
       "settings": {
-        "address": "128.199.182.183",
+        "address": "x.x.x.x",
         "port": 8080,
         "network": "tcp,udp",
         "timeout": 0
